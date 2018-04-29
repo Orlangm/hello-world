@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Community!
+
+Orlangm says hello, new at programming's world but with many expectations. See ya!
